@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 4.8rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+h2{
+  font-size: 3rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+.set {
+  margin: 5% auto;
+}
+
+p{
+  visibility: hidden;
+  font-size: 25px;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 2.5px 0 #DA0463;
+}
+#game{
+  width: 450px;
+  height: 450px;
+}
+.box{
+  border-color: white;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  float: left;
+}
+#lt{
+  border-style: solid;
+  border-left: 0px;
+  border-top: 0px;
+}
+#mt{
+  border-style: solid;
+  border-top: 0px;
+}
+#rt{
+  border-style: solid;
+  border-right: 0px;
+  border-top: 0px;
+}
+#lm{
+  border-style: solid;
+  border-left: 0px;
+}
+#mm{
+  border-style: solid;
+}
+#rm{
+  border-style: solid;
+  border-right: 0px;
+}
+#lb{
+  border-style: solid;
+  border-left: 0px;
+  border-bottom: 0px;
+}
+#mb{
+  border-style: solid;
+  border-bottom: 0px;
+}
+#rb{
+  border-style: solid;
+  border-right: 0px;
+  border-bottom: 0px;
+}
+i{
+  align-items: center;
+}
+#reload{
+  visibility: hidden;
+  margin-top: 50px;
+}
