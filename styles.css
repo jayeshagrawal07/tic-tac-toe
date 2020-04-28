@@ -30,6 +30,7 @@ p{
 #game{
   width: 450px;
   height: 450px;
+  margin: auto;
 }
 .box{
   border-color: white;
@@ -82,5 +83,5 @@ i{
 }
 #reload{
   visibility: hidden;
-  margin-top: 50px;
+  margin-top: 30px;
 }
