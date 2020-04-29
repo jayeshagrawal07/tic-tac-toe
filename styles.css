@@ -17,7 +17,7 @@ h2{
 }
 
 .set {
-  margin: 5% auto;
+  margin: 3.3% auto;
 }
 
 p{
@@ -28,14 +28,14 @@ p{
   text-shadow: 2.5px 0 #DA0463;
 }
 #game{
-  width: 450px;
-  height: 450px;
+  width: 27rem;
+  height: 27rem;
   margin: auto;
 }
 .box{
   border-color: white;
-  width: 150px;
-  height: 150px;
+  width: 9rem;
+  height: 9rem;
   display: inline-block;
   float: left;
 }
